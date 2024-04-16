@@ -1,1 +1,1 @@
-Activate the WordPress plugin, then go to `?runTest=delete` to run a test.
+Activate the WordPress plugin, then go to `/?runTest` to run a test.

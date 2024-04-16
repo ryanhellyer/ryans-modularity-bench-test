@@ -4,6 +4,15 @@
     <meta charset="UTF-8">
     <title>Bench test of Modularity vs old school WordPress functions</title>
     <style>
+        body {
+            padding: 10px;
+        }
+        * {
+            font-family: sans-serif;
+        }
+        h1 {
+            font-size: 1.5em;
+        }
         #responses {
             margin-top: 20px;
             border: 1px solid #ccc;
