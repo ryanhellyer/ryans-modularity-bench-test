@@ -1,0 +1,12 @@
+{
+  "name": "your-vendor/ryans-modularity-bench-test",
+  "require": {
+    "inpsyde/modularity": "^1.0",
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "RyansModularityBenchTest\\": "src/"
+    }
+  }
+}
